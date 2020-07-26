@@ -20,7 +20,6 @@ for(let i=0; i<len1; i++){
 }
 
 
-
 // Remove things
 const len2 = document.getElementsByClassName("rmvButton").length;
 
